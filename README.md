@@ -1,3 +1,5 @@
+Assignments for various uni modules implementing machine learning 
+
 Data Mining - Perceptron:
 a binary perceptron algorithm created from scratch and used to distinguish between 3 classes (data preprocessing split into pairs of data).
 perceptron extended to perform multi-class classification using 1-vs-rest approach.
